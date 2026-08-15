@@ -38,7 +38,7 @@ The complete application is currently implemented in `Quiz.java`, including the 
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/vijaynitmz/Quiz-Application>
+git clone :https://github.com/vijaynitmz/Quiz-Application
 cd Quiz-Application
 ```
 
